@@ -1,0 +1,6 @@
+1 675 266 Novorosijsk true
+2 696 161 Rogochovo true
+3 215 306 Ostin true
+4 391 448 Terezina true
+5 727 322 Iran true
+6 647 340 Kair true

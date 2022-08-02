@@ -1,0 +1,7 @@
+1 567 171 Bergen true
+2 562 217 Amsterdam true
+3 230 320 Houston true
+4 385 508 Paranagua true
+5 836 351 Kolkata true
+6 883 402 Kotabaru true
+7 945 324 Shanghai true

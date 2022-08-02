@@ -1,0 +1,14 @@
+10 535 280 null false
+11 557 188 null false
+12 416 385 null false
+13 284 379 null false
+14 325 412 null false
+15 480 530 null false
+16 860 425 null false
+17 420 600 null false
+18 1080 640 null false
+19 1130 550 null false
+20 1080 400 null false
+21 980 360 null false
+22 680 645 null false
+23 920 640 null false

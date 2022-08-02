@@ -1,0 +1,6 @@
+1 525 223 Dublin true
+2 289 312 Charleston true
+3 290 373 Kingston true
+4 1041 503 Hej-Point true
+5 973 309 Busan true
+6 812 409 Kolombo true

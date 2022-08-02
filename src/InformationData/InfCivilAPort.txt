@@ -1,0 +1,6 @@
+1 641 218 Minsk true
+2 704 191 Moscow true
+3 933 278 Pekin true
+4 1015 305 Tokyo true
+5 378 483 Brazil true
+6 292 248 Ottava true
